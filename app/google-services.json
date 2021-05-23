@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148088462176",
+    "firebase_url": "https://place-app-56008-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "place-app-56008",
+    "storage_bucket": "place-app-56008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148088462176:android:150f7d6fe9a70daa855c05",
+        "android_client_info": {
+          "package_name": "com.deeksha.signinandout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148088462176-pq5bc0sra2bcb3sadiagpadec1lloipb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8m5ZkXn4gBtfT53X6zR58KvKLnbN8O9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148088462176-pq5bc0sra2bcb3sadiagpadec1lloipb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
